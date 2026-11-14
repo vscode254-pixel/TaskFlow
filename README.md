@@ -228,7 +228,7 @@ These are potential future enhancements and are not all part of the current impl
   <em>Building What Comes Next.</em>
 </p>
 
-DALITECHX TECHNOLOGIES is a technology-focused company committed to exploring, developing, and delivering practical technology solutions.
+DALITECHX TECHNOLOGIES is a technology-focused start-up committed to exploring, developing, and delivering practical technology solutions.
 
 We believe technology should do more than demonstrate what is possible. It should solve real-world problems, improve operations, and create meaningful opportunities.
 
